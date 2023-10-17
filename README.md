@@ -9,13 +9,13 @@ ____
 ## Примеры тестов программы:
 
 #### Шифрование сообщения c текстом "Алёна"
-!(https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/6.png)
+![Алёна](https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/6.png)
 #### Расшифрование сообщения на русском
-!(https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/2.png)
+![Лягушки](https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/2.png)
 #### Шифрование сообщения на английском
-!(https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/3.png)
+![Бананы](https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/3.png)
 #### Расшифрования сообщения на английском
-!(https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/4.png)
+![Бананы](https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/4.png)
 
 ## Запуск:
 
