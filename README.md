@@ -11,7 +11,7 @@ ____
 #### Шифрование сообщения c текстом "Алёна"
 ![Алёна](https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/6.png)
 #### Расшифрование сообщения на русском
-![Лягушки](https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/2.png)
+![Сосиска](https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/7.png)
 #### Шифрование сообщения на английском
 ![Бананы](https://github.com/rottenpearr/lab_rab_pp_05/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/3.png)
 #### Расшифрования сообщения на английском
